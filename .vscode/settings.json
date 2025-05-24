@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f4e82074-dc4a-48be-9ba1-dd98113b59c8/resourceGroups/ParcialV2/providers/Microsoft.Web/sites/LuzYSombra",
+    "appService.deploySubpath": "."
+}
